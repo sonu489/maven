@@ -4,7 +4,7 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>anvesh</artifactId>
 	<packaging>war</packaging>
-	<version>22.66.66</version>
+	<version>22.44.66</version>
 	<name>my-app-1</name>
 	
 	<!-- Demo on Github Webhooks-->
