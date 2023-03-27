@@ -5,7 +5,7 @@
 	<artifactId>anvesh</artifactId>
 	<packaging>war</packaging>
 	<version>22.44.66</version>
-	<name>my-app-1</name>
+	<name>anvesh</name>
 	
 	<!-- Demo on Github Webhooks-->
 
